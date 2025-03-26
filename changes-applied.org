@@ -1,0 +1,6 @@
+This repo is a "fork" of dioxus with some unmerged PRs cherry-picked into it so we can continue the development without having to wait for 0.7 to release. List of changes:
+
++ Incorporate [[https://github.com/DioxusLabs/dioxus/pull/3668][#3668]]
++ Incorporate [[https://github.com/DioxusLabs/dioxus/pull/3911][#3911]]
++ Incorporate [[https://github.com/DioxusLabs/dioxus/pull/3908][#3908]]
++ Base off of v0.6.3, so (what I consider to be) the regression [[https://github.com/DioxusLabs/dioxus/issues/3904][#3904]] is not introduced yet.
